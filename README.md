@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Amrutha 👋
 
-<!--
-**amruthakn2006/amruthakn2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm currently learning and building my skills for software engineering placements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning **Java, DSA, HTML & CSS**
+- 💻 Practicing **Java & DSA** regularly
+- 🌐 Exploring **Web Development**
+- 🚀 Building projects to improve my programming skills
+- 🎯 Preparing for **software engineering placements**
+- 📚 Always interested in learning new technologies
+
+### 🛠️ Skills I'm Learning
+
+- Java
+- Data Structures & Algorithms
+- HTML
+- CSS
+- Git & GitHub
+
+### 📌 Projects
+
+**Java & DSA Practice**  
+My Java and DSA practice repository for placement preparation.
+
+**Student Management System**  
+A Java-based mini project created as part of my programming practice.
+
+### 🤝 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/amrutha-kn-86192335a/)
+
+---
+
+⭐ Thanks for visiting my profile!
